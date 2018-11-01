@@ -21,3 +21,6 @@ CREATE TABLE books (
   year INTEGER,
   series_id INTEGER
 );
+
+CREATE TABLE (
+);
