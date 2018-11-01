@@ -1,1 +1,1 @@
-INSERT INTO series (title, subgenre_id, author_id) VALUES ()
+INSERT INTO series (title, subgenre_id, author_id) VALUES ("for whom the bell toles")
