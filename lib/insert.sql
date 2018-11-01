@@ -3,4 +3,4 @@ INSERT INTO books (title, year, series_id) VALUES ('One Hundred Years of Solitud
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ('fred', 'human', 'oh hi there', 1, 2), ('fred', 'human', 'oh hi there', 1, 2), ('fred', 'human', 'oh hi there', 1, 2), ('fred', 'human', 'oh hi there', 1, 2), ('fred', 'human', 'oh hi there', 1, 2), ('fred', 'human', 'oh hi there', 1, 2), ('fred', 'human', 'oh hi there', 1, 2), ('fred', 'human', 'oh hi there', 1, 2);
 INSERT INTO subgenres (name) VALUES ('spooky'), ('not spooky');
 INSERT INTO authors (name) VALUES ('greg'), ('tim')
--- INSERT INTO character_books (book_id, character_id) VALUES (1,2), (3,4), (5,6), (7,8), (9,10), (11,12), (13,14), (15,16), (17,18), (19,20), (21,22), (23,24), (25,26), (27,28), (29,30), (31,32);
+INSERT INTO character_books (book_id, character_id) VALUES (1,2), (3,4), (5,6), (7,8), (9,10), (11,12), (13,14), (15,16), (17,18), (19,20), (21,22), (23,24), (25,26), (27,28), (29,30), (31,32);
