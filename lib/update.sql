@@ -1,1 +1,1 @@
-UPDATE characters SET name = 'Martian' WHERE name = 'fred'
+UPDATE characters SET name = 'Martian' WHERE species = 'Human'
