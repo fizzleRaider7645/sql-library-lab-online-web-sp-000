@@ -1,1 +1,1 @@
-INSERT INTO series (title, )
+INSERT INTO series (title, subgenre_id, author_id) VALUES ()
