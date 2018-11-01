@@ -22,5 +22,6 @@ CREATE TABLE books (
   series_id INTEGER
 );
 
-CREATE TABLE (
+CREATE TABLE characters (
+  id INTEGER PRIMARY KEY,
 );
