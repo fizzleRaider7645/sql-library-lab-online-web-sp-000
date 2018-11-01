@@ -1,6 +1,6 @@
 CREATE TABLE series(
   id INTEGER PRIMARY KEY,
   title TEXT,
-  sub_genre INTEGER,
+  subgenre_id INTEGER,
   author_id INTEGER
 );
